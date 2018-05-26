@@ -1,0 +1,33 @@
+.masthead {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  margin: auto;
+  background-image: url("./pattern.jpeg");
+  }
+
+.subtitle {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  }
+.subtitle-brushes {
+  background-color: mediumspringgreen;
+  }
+.subtitle-frames {
+  background-color: lightcoral;
+  }
+  .subtitle-paint {
+    background-color: skyblue;
+    }
+.details {
+  font-family: Helvetica;
+  color: gray;
+}
+.pricing {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+  }
